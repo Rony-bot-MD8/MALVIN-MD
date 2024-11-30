@@ -5,9 +5,9 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "EC1l1RKZ#iIk20jIp2r7-3tmLs0h2qfqTCnPfenAgsis_CVXc-3w",
+SESSION_ID: process.env.SESSION_ID || "LRBhjBwA#9UUR86PKTwQPv6z4sS3zFsm-Lc-Vpq4OQ3502BwlS7U",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/n5vvij.jpg",
-SUDO_NB: process.env.SUDO_NB || "263780934873",
+SUDO_NB: process.env.SUDO_NB || "50374349804",
 MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
